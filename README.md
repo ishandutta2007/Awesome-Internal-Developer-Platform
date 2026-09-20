@@ -66,9 +66,9 @@ The table below lists leading commercial SaaS and hosted Internal Developer Plat
 
 ## 🔓 Open-Source IDP Projects & Frameworks
 
-Below is a curated list of top open-source repositories powering Internal Developer Platforms, sorted by GitHub Star Count in descending order. ⭐
+Below is a curated list of top open-source repositories powering Internal Developer Platforms, sorted by GitHub Stars_Count in descending order. ⭐
 
-| 📦 Project Name | ⭐ Star Count | 🏷️ Category / Focus | 📖 Description | 📜 License |
+| 📦 Project Name | ⭐ Stars_Count | 🏷️ Category / Focus | 📖 Description | 📜 License |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Backstage](https://backstage.io/)** | [![Backstage Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Developer Portal & Catalog | CNCF Incubating developer portal framework created by Spotify. Features Software Catalog, Scaffolder, TechDocs, and 200+ plugins. | Apache 2.0 |
 | **[Infisical](https://infisical.com/)** | [![Infisical Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers) | Platform Secrets Security | Open-source developer secret management platform for syncing environment variables, secrets, and identity security across infrastructure. | MIT / AGPL |
