@@ -1,42 +1,52 @@
-# Awesome Internal Developer Platform (IDP) Tools & Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Internal Developer Platform Banner" width="100%" />
+</p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Internal Developer Platform](https://img.shields.io/badge/Category-Internal%20Developer%20Platform-blue)
-![Platform Engineering](https://img.shields.io/badge/Focus-Platform%20Engineering-green)
-![Last Updated](https://img.shields.io/badge/Updated-September%202026-brightgreen)
+# 🚀 Awesome Internal Developer Platform (IDP) Tools & Ecosystem 🛠️
 
-> A curated list of top **Internal Developer Platform (IDP)** tools, **Developer Portals**, **Service Catalogs**, **Self-Service Infrastructure Orchestrators**, and **Platform Engineering frameworks**.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
+  <img src="https://img.shields.io/badge/Category-Internal%20Developer%20Platform-blue" alt="Category"/>
+  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-green" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Updated-September%202026-brightgreen" alt="Updated"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 💡 A curated list of top **Internal Developer Platform (IDP)** tools, **Developer Portals**, **Service Catalogs**, **Self-Service Infrastructure Orchestrators**, and **Platform Engineering frameworks**.
 
 Internal Developer Platforms (IDPs) enable platform engineering teams to deliver standardized golden paths, automated infrastructure self-service, and centralized service ownership. By reducing cognitive load and eliminating "yak shaving," IDPs accelerate software delivery while maintaining security, compliance, and operational guardrails.
 
 ---
 
-## Table of Contents
-- [Market Overview & Industry Dynamics](#market-overview--industry-dynamics)
-- [SaaS & Hosted IDP Platforms](#saas--hosted-idp-platforms)
-- [Open-Source IDP Projects & Frameworks](#open-source-idp-projects--frameworks)
-- [IDP Architecture & Component Mapping](#idp-architecture--component-mapping)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📌 Table of Contents
+- [📊 Market Overview & Industry Dynamics](#-market-overview--industry-dynamics)
+- [☁️ SaaS & Hosted IDP Platforms](#️-saas--hosted-idp-platforms)
+- [🔓 Open-Source IDP Projects & Frameworks](#-open-source-idp-projects--frameworks)
+- [🏗️ IDP Architecture & Component Mapping](#️-idp-architecture--component-mapping)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 ---
 
-## Market Overview & Industry Dynamics
+## 📊 Market Overview & Industry Dynamics
 
 The global **Internal Developer Platform (IDP) & Platform Engineering Market** is estimated at **$6.2 Billion in 2026** and is projected to reach **$18.5 Billion by 2032** (CAGR ~20.1%).
 
-### Market Structure & Concentration Analysis
-- **Fragmentation Level**: **Moderately Fragmented** with rapid consolidation around foundational standards.
-- **Market Dynamics**: The market is divided between **Developer Portals & Service Catalogs** (dominated by open-source Backstage and SaaS leaders like Harness & Port), **Platform Orchestrators** (Humanitec, Kratix, Crossplane), and **GitOps / Continuous Delivery** engines (Argo CD, Flux).
-- **Winner-Take-All Potential**: Low. Due to diverse cloud infrastructure requirements and heterogeneous enterprise stacks, no single vendor captures the entire workflow. Instead, modular platform engineering stacks combining open-source standards (CNCF) with specialized SaaS layers are winning.
+### 📈 Market Structure & Concentration Analysis
+- 🧩 **Fragmentation Level**: **Moderately Fragmented** with rapid consolidation around foundational standards.
+- ⚡ **Market Dynamics**: The market is divided between **Developer Portals & Service Catalogs** (dominated by open-source Backstage and SaaS leaders like Harness & Port), **Platform Orchestrators** (Humanitec, Kratix, Crossplane), and **GitOps / Continuous Delivery** engines (Argo CD, Flux).
+- 🏆 **Winner-Take-All Potential**: Low. Due to diverse cloud infrastructure requirements and heterogeneous enterprise stacks, no single vendor captures the entire workflow. Instead, modular platform engineering stacks combining open-source standards (CNCF) with specialized SaaS layers are winning.
 
 ---
 
-## SaaS & Hosted IDP Platforms
+## ☁️ SaaS & Hosted IDP Platforms
 
-The table below lists leading commercial SaaS and hosted Internal Developer Platforms, sorted by company valuation/funding in descending order.
+The table below lists leading commercial SaaS and hosted Internal Developer Platforms, sorted by company valuation/funding in descending order. 💰
 
-| Platform | Description & Key Features | Starting Tier Price | Free Tier / Trial Limits | Company Size (Valuation / Funding) |
+| 🚀 Platform | 📝 Description & Key Features | 💵 Starting Tier Price | 🎁 Free Tier / Trial Limits | 🏢 Company Size (Valuation / Funding) |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Harness IDP](https://harness.io/products/internal-developer-portal)** | Enterprise-grade developer portal built on Backstage, tightly integrated with Harness CI/CD pipelines, service catalogs, and software templates. | $10 / developer / month | Free Tier up to 5 developers & 100 service catalog entities | **$5.5 Billion Valuation** ($600M+ Raised) |
 | **[Port](https://www.getport.io/)** | Visual no-code developer portal for software catalogs, self-service developer actions, scorecards, and automated SDLC workflows. | $78 / user / month (Pro) | Free Forever Plan up to 10,000 entities and 5 blueprints | **$800 Million Valuation** ($158M Total Raised) |
@@ -54,11 +64,11 @@ The table below lists leading commercial SaaS and hosted Internal Developer Plat
 
 ---
 
-## Open-Source IDP Projects & Frameworks
+## 🔓 Open-Source IDP Projects & Frameworks
 
-Below is a curated list of top open-source repositories powering Internal Developer Platforms, sorted by GitHub Star Count in descending order.
+Below is a curated list of top open-source repositories powering Internal Developer Platforms, sorted by GitHub Star Count in descending order. ⭐
 
-| Project Name | Star Count | Category / Focus | Description | License |
+| 📦 Project Name | ⭐ Star Count | 🏷️ Category / Focus | 📖 Description | 📜 License |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Backstage](https://backstage.io/)** | [![Backstage Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Developer Portal & Catalog | CNCF Incubating developer portal framework created by Spotify. Features Software Catalog, Scaffolder, TechDocs, and 200+ plugins. | Apache 2.0 |
 | **[Infisical](https://infisical.com/)** | [![Infisical Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers) | Platform Secrets Security | Open-source developer secret management platform for syncing environment variables, secrets, and identity security across infrastructure. | MIT / AGPL |
@@ -77,9 +87,9 @@ Below is a curated list of top open-source repositories powering Internal Develo
 
 ---
 
-## IDP Architecture & Component Mapping
+## 🏗️ IDP Architecture & Component Mapping
 
-Building an enterprise-grade Internal Developer Platform usually requires layering specialized tools across 5 architectural planes:
+Building an enterprise-grade Internal Developer Platform usually requires layering specialized tools across 5 architectural planes: 📐
 
 ```
 +-------------------------------------------------------------------+
@@ -110,17 +120,40 @@ Building an enterprise-grade Internal Developer Platform usually requires layeri
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-Contributions are welcome and greatly appreciated! To contribute to this list:
+Contributions are welcome and greatly appreciated! 🎉 To contribute to this list:
 
-1. **Fork** this repository.
-2. Add your tool/project entry in the appropriate table following the established alphabetical or metric sorting guidelines.
-3. Ensure all links point to authoritative landing pages or official repositories.
-4. Submit a **Pull Request** with a brief summary of the added technology.
+1. 🍴 **Fork** this repository.
+2. ➕ Add your tool/project entry in the appropriate table following the established alphabetical or metric sorting guidelines.
+3. 🔗 Ensure all links point to authoritative landing pages or official repositories.
+4. 🚀 Submit a **Pull Request** with a brief summary of the added technology.
 
 ---
 
-## Disclaimer
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Internal-Developer-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Internal-Developer-Platform&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting this repository! If you find this curated Internal Developer Platform ecosystem list helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it!
+- 🔀 **Fork** and contribute to keep the list up to date.
+- 📢 **Share** with your platform engineering team, DevOps colleagues, and engineering leaders.
+- ☕ **Buy me a coffee**: Support ongoing open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-BUY%20ME%20A%20COFFEE-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚠️ Disclaimer
 
 This repository is a community-maintained curated resource intended for educational and research purposes. Product pricing, funding data, and feature capabilities reflect estimates and public disclosures as of late 2026. This list does not constitute financial advice or formal software endorsement.
