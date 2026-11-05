@@ -84,6 +84,7 @@ Below is a curated list of top open-source repositories powering Internal Develo
 | **[Radius](https://radapp.io/)** | [![Radius Stars](https://img.shields.io/github/stars/radius-project/radius?style=social&color=white)](https://github.com/radius-project/radius/stargazers) | Cloud-Native App Platform | Open-source application platform designed for multi-cloud app graphs, infrastructure recipes (Bicep/Terraform), and decoupled deployment specs. | Apache 2.0 |
 | **[OpenChoreo](https://openchoreo.dev/)** | [![OpenChoreo Stars](https://img.shields.io/github/stars/openchoreo/openchoreo?style=social&color=white)](https://github.com/openchoreo/openchoreo/stargazers) | CNCF Developer Platform | CNCF Sandbox project providing an open-source, multi-plane Kubernetes developer platform with experience, control, and observability layers. | Apache 2.0 |
 | **[Kratix](https://kratix.io/)** | [![Kratix Stars](https://img.shields.io/github/stars/syntasso/kratix?style=social&color=white)](https://github.com/syntasso/kratix/stargazers) | Platform-as-a-Product Engine | Open-source framework that extends Kubernetes to build composable platform capabilities ("Promises") for enterprise multi-cluster environments. | Apache 2.0 |
+| **[Peon](https://peon.sh/)** | [![Peon Stars](https://img.shields.io/github/stars/Peon-sh/Peon?style=social&color=white)](https://github.com/Peon-sh/Peon/stargazers) | Self-Hosted Docker PaaS | Open-source self-hostable deployment platform (Vercel/Heroku alternative) with project RBAC, audit logs, and MCP for AI agents. | MIT |
 
 ---
 
